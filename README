@@ -1,30 +1,29 @@
 # 🍽️ React Meals App
 
-A simple React application that fetches a list of meals from a backend API and displays them with images, names, and descriptions. Designed as a clean and minimal food menu UI.
+A simple React application that fetches a list of meals from a backend API and displays them with images, names, descriptions, and prices. Designed as a clean and minimal food menu UI.
 
 ## 🚀 Features
 
 - Fetches meals dynamically from a backend API
 - Displays meal images, names, prices, and descriptions
 - Clean component structure with `Meal` and `Menu` components
-- Built with modern React (Hooks, useEffect, Vite or CRA)
+- Built with modern React
 
 ## 📸 Screenshots
 
-![Meal List Screenshot](./screenshots/meal-list.png)  
-_Example of the rendered meals UI_
+![web image](image.png)
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (with Hooks), Vite or Create React App
-- **Backend:** Node.js/Express (serving `/meals` and image files)
-- **Styling:** CSS or your preferred method
+- **Frontend:** React
+- **Backend:** Node.js/Express 
+- **Styling:** CSS
 
 ## 📦 Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-meals-app.git
+git clone https://github.com/TamNganLy/React-Udemy-FoodOrder.git
 
 # Navigate into the project folder
 cd react-meals-app
